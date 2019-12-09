@@ -10,9 +10,13 @@ The players will use the keyboard to control the position of the gun. Press spac
 ## Component Parts
 
 flower.js
+
 drop.js
+
 ship.js
+
 sketch.js
+
 shoot.wav
 
 
@@ -33,7 +37,7 @@ The resoures I found already has a rather complicated structure, it is challengi
 
 ## Completed Work
 
-![Image description](link-to-image)
+![Image description](https://github.com/SceneryDong/hw13/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-12-08%20%E4%B8%8B%E5%8D%8811.52.55.png)
 
 Also upload the code that makes up your project to your repository.
 
